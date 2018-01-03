@@ -4,4 +4,4 @@ The dataset can be downloaded here: https://www.kaggle.com/dalpozz/creditcardfra
 
 The results described in the report can be recreated by running the file "Credit_Card_Fraud_Detection".
 
-View the Notebook here: http://nbviewer.jupyter.org/gist/FiammettaC/7a07889e874afcb53d3e80ee247279c1
+View the Notebook here: http://nbviewer.jupyter.org/gist/FiammettaC/719f464dae07ba3dfac4469b631a561d
